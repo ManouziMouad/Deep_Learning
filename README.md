@@ -8,8 +8,7 @@
 
 _Trois étudiants en Data Engineer à l'Institut National des Postes et Télécommunications à Rabat, Maroc._
 
-Notre projet consiste en la mise en œuvre des Réseaux de Neurones Convolutionnels (CNN) et tester leurs performences seront 
-démontrées sur un ensemble de données qui contient les chiffres de 0 à 9 en langue des signes. 
+Notre projet consiste en la mise en œuvre des Réseaux de Neurones Convolutionnels (CNN) et tester leurs performances sur un ensemble de données qui contient les chiffres de 0 à 9 en langue des signes. 
 
 Nous commencons par établir un modèle de régression logistique pour avoir une idée sur la performance d'un modèle classique 
 du Machine Learning en comparaison aux Réseaux de Neurones du Deep Learning.
@@ -17,5 +16,4 @@ du Machine Learning en comparaison aux Réseaux de Neurones du Deep Learning.
 Ensuite, nous appliquons progressivement le modèle CNN sur notre ensemble de données et nous l'ajustons à chaque étape en 
 fonction des résultats obtenues ( Précision du modèle et Taux de perte )
 
-Enfin, nous évaluons notre modèle en utilisant la Matrice de Confusion et en prédisant quelques images pour en achever notre étude
-avec un simple Benchmarking.
+Enfin, nous évaluons notre modèle en utilisant la Matrice de Confusion et en prédisant quelques images pour en achever notre étude avec un simple Benchmarking.
